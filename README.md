@@ -1,6 +1,6 @@
-# Giovanni Tonga
+# Giovanni Bindi
 
-**T Consultant · Creative Technologist · Turin, Italy 🇮🇹**
+**Creative Technologist · IT Consultant · Turin, Italy 🇮🇹**
 
 I design, coordinate and build digital solutions for real-world contexts — web platforms, interactive applications, mobile-first tools, IoT prototypes and innovation initiatives focused on actual delivery.
 
