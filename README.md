@@ -1,6 +1,6 @@
 # 👋 Giovanni Bindi
 
-**Creative Technologist · IT Consultant**  
+**Creative Technologist · Digital Transformation Lead · Consultant**  
 📍 Turin, Italy 🇮🇹
 
 I design and build digital systems that actually ship.  
