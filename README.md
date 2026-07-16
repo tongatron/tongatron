@@ -16,7 +16,7 @@ AI · IoT · Open Innovation · Digital Fabrication · Creative Coding
 ---
 
 ### 🚀 Projects & Experiments
-🌐 https://tongatron.github.io/
+🌐 [tongatron.org](https://tongatron.org/)
 
 ---
 
